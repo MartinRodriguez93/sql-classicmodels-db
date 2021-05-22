@@ -8,6 +8,8 @@
 
 -----------------------------------------------------------------------
 
+- MySQL Server and Workbench
+
 - Database Source: https://www.mysqltutorial.org/mysql-sample-database.aspx/
 
 - Database schema:
