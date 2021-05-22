@@ -1,6 +1,6 @@
 use classicmodels_db;
 
-*#PAYMENTS TABLE:*
+#PAYMENTS TABLE:
 
 #Avg payments amount: '32431.645531'
 select avg(`amount`)
