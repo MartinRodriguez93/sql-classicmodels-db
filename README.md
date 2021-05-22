@@ -4,7 +4,7 @@
 
 *Español*
 
-# SQL queries sobre una base de datos de una compañia de autos clásicos
+# SQL queries sobre una base de datos de una compañia que vende autos clásicos
 
 -----------------------------------------------------------------------
 
